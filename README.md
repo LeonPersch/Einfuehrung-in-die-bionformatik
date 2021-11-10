@@ -1,1 +1,1 @@
-# Einfuehrung-in-die-bionformatik
+# Einfuehrung-in-die-bioinformatik
